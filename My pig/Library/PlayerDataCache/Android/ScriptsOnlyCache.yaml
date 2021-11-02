@@ -585,7 +585,7 @@ ScriptsOnlyBuild:
     className: table
   - hash:
       serializedVersion: 2
-      Hash: c8083bdafe25599974473c365ad881b9
+      Hash: c62ef28e0bc532a61111139aebc60cd8
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ButtonModels
@@ -1846,4 +1846,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/1/Mypig/My pig/interface.apk
+  playerPath: C:/Users/1/interface/interface.apk

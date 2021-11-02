@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class ButtonModels : MonoBehaviour
 {
+    public GameObject Text;
     public GameObject panelButton;
     public GameObject UpPanelAnim;
     public GameObject DownPanelAnim;
@@ -20,7 +21,7 @@ public class ButtonModels : MonoBehaviour
     public GameObject upBar;
     public GameObject leftBar;
     public GameObject GemsShop;
-    public GameObject otherTarget;             //доп цель, для квалификации в турнире
+    public GameObject otherTarget;             //пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
     public GameObject ingr1;
     public GameObject inputFieldTeam;
     // Start is called before the first frame update
